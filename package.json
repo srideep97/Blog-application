@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx cross-env NODE_ENV=production node index.js",
-    "dev" : "npx cross-env NODE_ENV=development nodemon index.js"
+    "start": "npx cross-env NODE_ENV=production node index",
+    "dev" : "npx cross-env NODE_ENV=development nodemon index"
   },
   "author": "srideep",
   "license": "ISC",
